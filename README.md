@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="icon.png" alt="Extension Icon" width="100"/>
-</p>
-
-<h1 align="center">Internet Price‑per‑GB Highlighter</h1>
+<h1 align="center">Internet Price and Speed Highlighter</h1>
 
 <p align="center">🔍 افزونه کروم برای محاسبه و هایلایت خودکار قیمت هر گیگابایت در بسته‌های اینترنتی مخابرات ایران</p>
 
@@ -11,7 +7,7 @@
 ## 📸 پیش‌نمایش
 
 <p align="center">
-  <img src="screenshot.png" alt="Preview of the Extension" width="600"/>
+  <img src="image.png" alt="Preview of the Extension" width="600"/>
 </p>
 
 ---
@@ -28,8 +24,8 @@
 
 ---
 
-## 🌐 سایت پشتیبانی‌شده
-[adsl.tci.ir/panel/change-service](https://adsl.tci.ir/panel/change-service)
+## 🌐 سایت‌های پشتیبانی‌شده
+🔗 [adsl.tci.ir](https://adsl.tci.ir)
 
 ---
 
